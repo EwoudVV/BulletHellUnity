@@ -1,4 +1,6 @@
+v0.0.4: Removed debug messages in debug.log
+v0.0.3: Made enemies spawn off-screen
 v0.0.2: Fixed bullets colliding with the boundary
 v0.0.1: Added a boundary so that the player cannot go off-screen
-Build 1
-v0.0.1: First release! 
+Build 1: Windows
+v0.0.1: First release!
