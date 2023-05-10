@@ -1,6 +1,10 @@
+v0.0.8: Made music play in menu as well as game
+v0.0.7: Added version
+v0.0.6: Added copyright
+v0.0.5: Added menu screen
 v0.0.4: Removed debug messages in debug.log
 v0.0.3: Made enemies spawn off-screen
 v0.0.2: Fixed bullets colliding with the boundary
 v0.0.1: Added a boundary so that the player cannot go off-screen
-Build 1: Windows
+Build1: Windows
 v0.0.1: First release!
